@@ -1,3 +1,4 @@
 # todo_app
 
-A new Flutter project.
+It's a To Do List App build that can list your 
+'To Do Works'
